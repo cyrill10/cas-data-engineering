@@ -439,7 +439,7 @@ DATASTAX_nodes: 3
 #
 # ===== MongoDB ========
 #
-MONGO_enable: true
+MONGO_enable: false
 MONGO_nodes: 3
 #
 # ===== SolR ========
@@ -547,7 +547,7 @@ ORACLE_REST_DATA_SERVICE_enable: false
 #
 # ===== MySQL ========
 #
-MYSQL_enable: true
+MYSQL_enable: false
 #
 # ===== SQL Server ========
 #
