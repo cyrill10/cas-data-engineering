@@ -199,7 +199,7 @@ HADOOP_datanodes: 1
 #
 SPARK_enable: true
 # either 2 or 3
-SPARK_major_version: 3
+SPARK_major_version: 2
 # "hive" or "in-memory"
 SPARK_catalog: in-memory
 SPARK_workers: 5
